@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Application Development Using Java II"
+title: "App Dev Using Java II"
 date: 2015-06-17 17:00:00
 categories: unit01
 ---
