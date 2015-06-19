@@ -43,3 +43,7 @@ If creating your own library additional steps are required.
 	* javac -cp library.package-name.jar file-name.java
 * Run java app
 	* java file-name
+
+## Useful Links
+
+* [Classpath Explanation] (http://stackoverflow.com/questions/25730098/java-code-to-import-jar-file)
