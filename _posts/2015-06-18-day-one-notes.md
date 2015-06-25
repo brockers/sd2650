@@ -46,5 +46,5 @@ If creating your own library additional steps are required.
 
 ## Useful Links
 
-* [Classpath Explanation] (http://stackoverflow.com/questions/25730098/java-code-to-import-jar-file)
+* [Classpath Explanation](http://stackoverflow.com/questions/25730098/java-code-to-import-jar-file)
 
