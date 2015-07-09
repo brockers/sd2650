@@ -2,9 +2,11 @@
 layout: post
 title: "ToDo List App"
 date: 2015-07-02 17:00:00
-c
-tegories: unit03
+categories: unit03
 ---
+
+Making a ToDo List application in Java and Android.  Below is of the class information
+along with dependancies needed to complete the application.
 
 ## Useful Links
 
