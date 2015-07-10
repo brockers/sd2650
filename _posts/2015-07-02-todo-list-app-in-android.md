@@ -14,6 +14,21 @@ along with dependancies needed to complete the application.
 2. Basic Java/IntelliJ Apps
 3. Let's make a ToDo List!
 
+## Good Ideas
+
+* For Visual object names (called IDs) do the following
+	* Use camelCase
+	* Start with object type short hand
+		* btn = Button
+		* et = Edit Text
+		* etc..
+	* Remainder of name use a short functional description of what the ***thing*** does.
+* Example: btnAddNewItem
+
+## Other Work
+
+  Make sure the TextBox is not empty so empty ToDo items doesn't get added
+
 ## Useful Links
 
 * [IO Java Libarary Jar](https://www.dropbox.com/s/ynokptio9g49ig0/commons-io-2.4.jar)
