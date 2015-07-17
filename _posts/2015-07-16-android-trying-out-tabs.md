@@ -10,3 +10,4 @@ Get tabbed interfaces working as an options for Android layouts.
 ## Links
 
 * [Android Swipe View & Tab layout](http://www.learn2crack.com/2013/12/android-swipe-view-tab-layout-example.html)
+* [Android Dev Tutorial Template](https://developer.android.com/tools/projects/templates.html)
